@@ -16,7 +16,6 @@
     width: 100%;
     height: 800px;
     display: flex;
-    justify-content: space-between;
 
 }
 
@@ -24,11 +23,20 @@
     background-color: greenyellow;
     width: 23.5%;
     height: 800px;
+    margin-right: 29px;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
 }
     
-
+.img1 {
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+    background-color: saddlebrown;
+}
 
 .section {
     background-color: blueviolet;
