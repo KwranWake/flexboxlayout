@@ -30,7 +30,8 @@
     justify-content: center;
 
 }
-
+/* Acomodar las imagenes en columnas resultó más sencillo que en filas
+al momento de acomodar los espacios destinados para imágenes. !!!Recordar este acomodo!!! */
     
     
 .img1 {
