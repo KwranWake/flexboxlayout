@@ -136,7 +136,8 @@
         width: 50px;
         height: 200px;
         margin-bottom: 20px;
-        background-color: yellow;
+        background-image: url(/ClaseGit14032020/PracticaGit/Recursos/img2/king5.jpg);
+        background-repeat: no-repeat;
     }
 }
 
@@ -146,6 +147,8 @@
         height: 330px;
         margin-bottom: 20px;
         background-color: white;
+        background-image: url(/ClaseGit14032020/PracticaGit/Recursos/img2/king4.jpg);
+        background-repeat: no-repeat;
     }
 }
 
@@ -154,7 +157,8 @@
         width: 200px;
         height: 300px;
         margin-bottom: 20px;
-        background-color: black;
+        background-image: url(/ClaseGit14032020/PracticaGit/Recursos/img2/king3.jpg);
+        background-repeat: no-repeat;
     }
 }
 
@@ -163,7 +167,8 @@
         width: 300px;
         height: 300px;
         margin-bottom: 20px;
-        background-color: tomato;
+        background-image: url(/ClaseGit14032020/PracticaGit/Recursos/img2/king2.jpg);
+        background-repeat: no-repeat;
     }
 }
 
@@ -172,7 +177,8 @@
         width: 420px;
         height: 350px;
         margin-bottom: 20px;
-        background-color: seagreen;
+        background-image: url(/ClaseGit14032020/PracticaGit/Recursos/img2/king1.jpg);
+        background-repeat: no-repeat;
     }
 }
 
